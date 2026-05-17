@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Yonah brand palette — keep in sync with the framework theme tokens. */
+:root {
+  --color-deep-slate: #1f2933;
+  --color-context-gold: #ebb42c;
+  --color-structural-blue: #546e7a;
+  --color-light-grey: #eceff1;
+}

@@ -55,9 +55,7 @@ All of these are localisations of the framework's wire-level API contract; the s
 
 ## Companion paper
 
-Companion paper: **"Yonah: An Auditable Autonomous AI Agent for Professors and Students"**, International Journal of Artificial Intelligence in Education (IJAIED), Elsevier, submission Q3 2026.
-
-The **frozen** reference implementation cited from the IJAIED paper's §Prototype URL is at [yonah-edu-page](https://github.com/yonah-ai/yonah-edu-page) (frontend) + [yonah-edu-agent](https://github.com/yonah-ai/yonah-edu-agent) (backend). Those repositories are paper artefacts and do not receive further work; new edu development happens here and in [yonah-agent-edu](https://github.com/yonah-ai/yonah-agent-edu).
+Companion paper: **"Yonah: An Auditable Autonomous AI Agent for Professors and Students"**, International Journal of Artificial Intelligence in Education (IJAIED), Elsevier, submission Q3 2026. This repository is the paper's canonical §5 prototype reference (frontend), together with the backend at [yonah-agent-edu](https://github.com/yonah-ai/yonah-agent-edu).
 
 ## Status
 
@@ -82,7 +80,6 @@ Set `VITE_API_BASE` to the Chalice REST URL and `VITE_WSS_URL` to the WebSocket 
 
 - Framework: [yonah-agent](https://github.com/yonah-ai/yonah-agent), [yonah-page](https://github.com/yonah-ai/yonah-page)
 - Other verticals: [yonah-page-health](https://github.com/yonah-ai/yonah-page-health) (forthcoming), [yonah-page-hire](https://github.com/yonah-ai/yonah-page-hire) (forthcoming), and the symmetric `-agent-` backends
-- Frozen historical (IJAIED-paper reference implementation, do not depend on): [yonah-edu-agent](https://github.com/yonah-ai/yonah-edu-agent), [yonah-edu-page](https://github.com/yonah-ai/yonah-edu-page)
 - Org profile: [yonah-ai/.github](https://github.com/yonah-ai/.github)
 
 ## License

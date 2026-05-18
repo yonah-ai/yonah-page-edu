@@ -58,24 +58,12 @@ export const verticalConfig = {
     "FERPA (US student records)",
   ],
 
-  // Companion paper for the "About" + footer surface.
-  companionPaper: {
-    title: "Yonah: An Auditable Autonomous AI Agent for Professors and Students",
-    venue:
-      "International Journal of Artificial Intelligence in Education (IJAIED)",
-    publisher: "Elsevier (from 2026)",
-    status: "in submission",
-    year: 2026,
-  },
-
-  // Pre-existing companion repositories for cross-linking.
+  // Companion repositories for cross-linking.
   repos: {
     backend: "https://github.com/yonah-ai/yonah-agent-edu",
     frontend: "https://github.com/yonah-ai/yonah-page-edu",
     frameworkBackend: "https://github.com/yonah-ai/yonah-agent",
     frameworkFrontend: "https://github.com/yonah-ai/yonah-page",
-    frozenBackend: "https://github.com/yonah-ai/yonah-edu-agent",
-    frozenFrontend: "https://github.com/yonah-ai/yonah-edu-page",
   },
 } as const;
 

@@ -1,5 +1,5 @@
 /**
- * Footer — Site footer with link to GitHub repos + the framework paper at ACM TAAS.
+ * Footer — Site footer with link to the GitHub repos.
  */
 export default function Footer() {
   // TODO: implement per the JSDoc above.

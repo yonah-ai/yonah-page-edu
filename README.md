@@ -53,9 +53,9 @@ Conflicts are expected only inside the override surface above. If a non-override
 
 All of these are localisations of the framework's wire-level API contract; the seven framework tool names (`build_artefact`, `publish_artefact`, `commit_decision`, `tutor_me`, `submit_draft`, `query_my_provenance`, `delete_my_data`) remain canonical at the network boundary.
 
-## Companion paper
+## Companion backend
 
-Companion paper: **"Yonah: An Auditable Autonomous AI Agent for Professors and Students"**, International Journal of Artificial Intelligence in Education (IJAIED), Elsevier, submission Q3 2026. This repository is the paper's canonical §5 prototype reference (frontend), together with the backend at [yonah-agent-edu](https://github.com/yonah-ai/yonah-agent-edu).
+The symmetric backend for this frontend lives at [yonah-agent-edu](https://github.com/yonah-ai/yonah-agent-edu).
 
 ## Status
 

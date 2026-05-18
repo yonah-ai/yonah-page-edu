@@ -5,7 +5,7 @@
  * framework page renders draft + published artefacts, bound cohorts,
  * pending decisions; this file overrides only the copy.
  *
- * See IJAIED paper §5.2 Professor flow + Scenario A and D in §6.
+ * See README.md.
  */
 import AuthorityDashboard from "./authority_dashboard";
 import { verticalConfig } from "../lib/vertical_config";

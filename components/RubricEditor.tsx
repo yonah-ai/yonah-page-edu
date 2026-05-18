@@ -5,8 +5,6 @@
  * based on rubric type (analytic grid / holistic single block /
  * single-point / checklist), bound to the four `RubricType` values that
  * the backend's `agent/ontologies/education.py` validates.
- *
- * See IJAIED paper §6 Scenario A (Professor authors and publishes a rubric).
  */
 import ArtefactEditor from "./ArtefactEditor";
 import { verticalConfig } from "../lib/vertical_config";

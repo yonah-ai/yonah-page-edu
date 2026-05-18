@@ -5,7 +5,7 @@
  * active rubrics for the student's class enrolments, past evaluations,
  * and a button to query per-evaluation provenance.
  *
- * See IJAIED paper §5.3 Student flow + Scenarios B, C, E in §6.
+ * See README.md.
  */
 import SecondAudienceDashboard from "./second_audience_dashboard";
 import { verticalConfig } from "../lib/vertical_config";

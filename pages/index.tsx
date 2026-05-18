@@ -1,7 +1,6 @@
 /**
  * Landing — Education vertical's hero. Introduces Yonah-Edu and routes new
- * visitors to login. See README + IJAIED paper §1 + the framework paper at
- * ACM TAAS.
+ * visitors to login. See README.
  *
  * The framework default renders vertical-agnostic copy ("authority audience" /
  * "second audience"). This file overrides the default with edu-specific
@@ -10,7 +9,7 @@
 import { verticalConfig } from "../lib/vertical_config";
 
 export default function Landing() {
-  // TODO: replace this scaffold with the IJAIED-paper-grade landing
+  // TODO: replace this scaffold with the production-grade landing
   // (two-audience composition, rubric + five-scenario teaser, badges).
   return (
     <div className="min-h-screen p-8">
